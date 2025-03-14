@@ -22,7 +22,7 @@ Audience demographics (where available)
 ## Link to each version of the project
 Python: https://github.com/jtyran/HCHSA_Post_Performance/blob/main/Python%20Version.ipynb
 
-R: https://jtyran.github.io/HCHSA_Post_Performance/
+R: https://jtyran.github.io/HCHSA-Social-Media-Performance-Project/
 
 Tyran Johnson
 Acknowledgments
